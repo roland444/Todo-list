@@ -82,3 +82,11 @@ form button:hover {
 .trash-btn {
     background-color: red;
 }
+
+.todo-item {
+    padding: 0rem .5rem;
+}
+
+.fa-trash, .fa-check {
+    pointer-events: none;
+}
